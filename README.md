@@ -81,5 +81,11 @@ It provides the Emergency service numbers ,others numbers(Pharmacies ,Hospitals 
 * I just used simple python in my code 
 * To store contact numbers  i used python dictionaries 
 * And Used those dictonaries to search numbers
+ 
+ ## Block Diagram 
+![chatbot](https://user-images.githubusercontent.com/59242413/96463575-7b430d00-1244-11eb-9183-50b6ff921b87.png)
 
+## Execution
+![chatbot](https://user-images.githubusercontent.com/59242413/96463336-3f0fac80-1244-11eb-93aa-c8e53fa51bba.JPG)
+![chatbot3](https://user-images.githubusercontent.com/59242413/96463345-40d97000-1244-11eb-825a-e506eeabcfc7.JPG)
 
